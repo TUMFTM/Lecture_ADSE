@@ -1,0 +1,12 @@
+torch
+torchvision
+pygame==2.0.1
+matplotlib
+numpy
+pandas==1.2.3
+gym==0.18.0
+seaborn==0.11.1
+pygame==2.0.1
+Box2D
+ffmpeg
+PyOpenGL

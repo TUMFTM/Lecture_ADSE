@@ -1,0 +1,1 @@
+https://www.hivemq.com/blog/mqtt-essentials-part2-publish-subscribe/

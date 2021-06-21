@@ -1,0 +1,1 @@
+/opt/ros/dashing/lib/python3.6/site-packages/ament_package/template/environment_hook/library_path.sh

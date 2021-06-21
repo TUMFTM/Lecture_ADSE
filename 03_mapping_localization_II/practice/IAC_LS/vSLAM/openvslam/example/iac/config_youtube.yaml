@@ -1,0 +1,63 @@
+#==============#
+# Camera Model #
+#==============#
+
+Camera.name: "IAC monocular"
+Camera.setup: "monocular"
+Camera.model: "fisheye"
+
+Camera.fx: 1000
+Camera.fy: 1000
+Camera.cx: 900
+Camera.cy: 540
+
+Camera.k1: 0.0
+Camera.k2: 0.0
+Camera.k3: 0.0
+Camera.k4: 0.0
+
+Camera.fps: 30.0
+Camera.cols: 1920
+Camera.rows: 1080
+
+Camera.color_order: "RGB"
+
+#================#
+# ORB Parameters #
+#================#
+
+Feature.max_num_keypoints: 10000
+Feature.scale_factor: 1.2
+Feature.num_levels: 8
+Feature.ini_fast_threshold: 25
+Feature.min_fast_threshold: 5
+Feature.mask_rectangles:
+  - [0.0, 1.0, 0.5, 1.0]
+  - [0.9, 1.0, 0.0, 0.15]
+
+#=================#
+# Init Parameters #
+#=================#
+
+Initializer.parallax_deg_threshold: 0.8
+Initializer.num_min_triangulated_pts: 30
+Initializer.scaling_factor: 2
+Initializer.num_ba_iterations: 100
+Initializer.reprojection_error_threshold: 10
+Initializer.num_ransac_iterations: 150
+
+
+#===========================#
+# PangolinViewer Parameters #
+#===========================#
+
+PangolinViewer.keyframe_size: 0.06
+PangolinViewer.keyframe_line_width: 1
+PangolinViewer.graph_line_width: 1
+PangolinViewer.point_size: 2
+PangolinViewer.camera_size: 0.07
+PangolinViewer.camera_line_width: 2
+PangolinViewer.viewpoint_x: 0
+PangolinViewer.viewpoint_y: -20
+PangolinViewer.viewpoint_z: -0.1
+PangolinViewer.viewpoint_f: 2800

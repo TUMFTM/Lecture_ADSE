@@ -1,0 +1,9 @@
+**/.ipynb_checkpoints
+
+############## MACHINE SPECIFIC ##############
+.vscode/
+.idea/
+*.pyc
+*/*/*/__pycache__/
+*/*/__pycache__/
+*/__pycache__/

@@ -1,0 +1,7 @@
+DBoW2/
+eigen*/
+g2o/
+opencv*/
+Pangolin/
+tinyxml2/
+*.pdf

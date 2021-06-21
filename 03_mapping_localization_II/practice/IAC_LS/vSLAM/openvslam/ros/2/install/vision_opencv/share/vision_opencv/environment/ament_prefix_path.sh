@@ -1,0 +1,1 @@
+/home/florian/ros2_dashing/ros2-linux/share/ament_cmake_core/cmake/environment_hooks/environment/ament_prefix_path.sh

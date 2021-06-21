@@ -1,0 +1,11 @@
+source;share/graph_based_slam/hook/cmake_prefix_path.ps1
+source;share/graph_based_slam/hook/cmake_prefix_path.dsv
+source;share/graph_based_slam/hook/cmake_prefix_path.sh
+source;share/graph_based_slam/hook/ld_library_path_lib.ps1
+source;share/graph_based_slam/hook/ld_library_path_lib.dsv
+source;share/graph_based_slam/hook/ld_library_path_lib.sh
+source;share/graph_based_slam/local_setup.bash
+source;share/graph_based_slam/local_setup.dsv
+source;share/graph_based_slam/local_setup.ps1
+source;share/graph_based_slam/local_setup.sh
+source;share/graph_based_slam/local_setup.zsh

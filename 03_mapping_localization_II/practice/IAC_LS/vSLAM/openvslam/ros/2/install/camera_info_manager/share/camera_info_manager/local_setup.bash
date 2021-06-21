@@ -1,0 +1,1 @@
+/home/florian/Repos/ADSE/03-MapLoc2/IAC_LS/vSLAM/openvslam/ros/2/build/camera_info_manager/ament_cmake_environment_hooks/local_setup.bash

@@ -19,7 +19,7 @@ networkx==2.5
 numpy==1.20.1
 oauthlib==3.1.0
 opencv-python==4.5.1.48
-Pillow==8.1.2
+Pillow==10.3.0
 protobuf==3.15.6
 pyasn1==0.4.8
 pyasn1-modules==0.2.8

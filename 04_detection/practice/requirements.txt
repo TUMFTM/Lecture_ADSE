@@ -5,7 +5,7 @@ chardet==4.0.0
 cycler==0.10.0
 decorator==4.4.2
 easydict==1.9
-future==0.18.2
+future==1.0.0
 google-auth==1.28.0
 google-auth-oauthlib==0.4.3
 grpcio==1.36.1

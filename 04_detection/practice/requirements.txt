@@ -40,5 +40,5 @@ tifffile==2021.3.17
 torch==2.8.0
 torchvision==0.7.0+cpu
 tqdm==4.59.0
-urllib3==1.26.4
+urllib3==2.6.0
 Werkzeug==1.0.1
